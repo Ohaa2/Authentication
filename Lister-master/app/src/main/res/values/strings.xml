@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lister</string>
+    <string name="image_of_house">Image of house</string>
+    <string name="display_email_here">Display Email Here</string>
+    <string name="display_name_here">Display Name Here</string>
+    <string name="google_account_logout">Google Account Logout</string>
+    <string name="server_clientid">853362349279-opggf64mcjnovtr5r78fkqh3saj44sl2.apps.googleusercontent.com</string>
+    <string name="google_profile_image">google_profile_image</string>
+    <string name="new_customer">New Customer</string>
+    <string name="home">Home</string>
+    <string name="existing_customer">Existing Customer</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="title_activity_customers">Customers</string>
+    <string name="customers">Customers</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="edit">Edit</string>
+    <string name="property_s">Property\'s</string>
+
+</resources>
